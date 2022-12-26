@@ -1,2 +1,2 @@
-# Iapp-React-JS-Code-Snippet
+# Iapp-Mern-Code-Snippet
 Repo contains the files for react js code snippet
